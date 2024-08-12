@@ -21,6 +21,8 @@ Included are some snippets of the model's generation to illustrate these finding
 
 
 
+
+<img width="249" alt="Screenshot 2024-08-09 172937- 4 1" src="https://github.com/user-attachments/assets/fa0f8680-9869-48e3-b2b0-4874334dbd54">
 <img width="249" alt="Screenshot 2024-08-09 172937- 4 1" src="https://github.com/user-attachments/assets/d29946b1-52f5-4a18-aecd-ebc6aa62fcf1">
 
 
