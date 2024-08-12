@@ -12,4 +12,5 @@ The fine-tuned model shows improvements in texture realism and capturing the com
 This research advances the use of AI in promoting cultural diversity in fashion but also emphasizes the need for continued improvements to better capture the richness of diverse fashion traditions.
 Included are some snippets of the model's generation to illustrate these findings.
 
-![Real Image and Generated Image]("C:\Users\Ohjay\Downloads\Screenshot 2024-08-09 172526- 5.png")
+<img width="739" alt="Screenshot 2024-08-09 172526- 5" src="https://github.com/user-attachments/assets/62a8ba96-8209-4377-9a05-4916b812d76d">
+
