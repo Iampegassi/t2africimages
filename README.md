@@ -22,5 +22,5 @@ Included are some snippets of the model's generation to illustrate these finding
 
 
 <img width="249" alt="Screenshot 2024-08-09 172937- 4 1" src="https://github.com/user-attachments/assets/d29946b1-52f5-4a18-aecd-ebc6aa62fcf1">
-<img width="716" alt="Screenshot 2024-08-09 173914 - 4" src="https://github.com/user-attachments/assets/7997f7b0-91e5-4a83-a30d-0e0c860c8353">
+
 
