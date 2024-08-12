@@ -6,3 +6,8 @@ We explore the generation of fashion images featuring African prints using a fin
 
 
 Here is a link to my Google Drive containing folders/files  where the dataset used and respective directories for saved model paths can be downloaded and mounted on the user's Google Drive.https:https://drive.google.com/drive/folders/1-1BF1_EKHs-C0yx_NoAaS1nj3VRJ02lv?usp=sharing
+
+## Findins and Future Direction
+The fine-tuned model shows improvements in texture realism and capturing the complexity of simpler African prints, but struggles with intricate designs, indicating that bias remains. Fluctuating SSIM values highlight inconsistencies in structural integrity.While the model effectively replicates cultural elements in simpler prints, it lacks consistency and photo-realism in more complex patterns. The inherent randomness in generative AI contributes to these variations, pointing to the need for further refinement.
+This research advances the use of AI in promoting cultural diversity in fashion but also emphasizes the need for continued improvements to better capture the richness of diverse fashion traditions.
+Included are some snippets of the model's generation to illustrate these findings.
