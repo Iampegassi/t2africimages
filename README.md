@@ -20,3 +20,7 @@ Included are some snippets of the model's generation to illustrate these finding
 <img width="739" alt="Screenshot 2024-08-09 172526- 5" src="https://github.com/user-attachments/assets/62a8ba96-8209-4377-9a05-4916b812d76d"><img width="191" alt="Screenshot 2024-08-12 095731" src="https://github.com/user-attachments/assets/fb1f4d98-556f-43fe-a0bd-fef6e0e04178"><img width="266" alt="Screenshot 2024-08-12 095645" src="https://github.com/user-attachments/assets/a12f5d44-707b-4d7b-a8df-034a831ab689"><img width="259" alt="Screenshot 2024-08-12 095537" src="https://github.com/user-attachments/assets/6f38e9d9-1721-4e79-ac70-1be9e70854bf">
 
 
+
+<img width="249" alt="Screenshot 2024-08-09 172937- 4 1" src="https://github.com/user-attachments/assets/d29946b1-52f5-4a18-aecd-ebc6aa62fcf1">
+<img width="716" alt="Screenshot 2024-08-09 173914 - 4" src="https://github.com/user-attachments/assets/7997f7b0-91e5-4a83-a30d-0e0c860c8353">
+
